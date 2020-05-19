@@ -169,7 +169,7 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 pip2 install mechanize
-git clone https://github.com/Senitopeng/Botkomena.git
+git clone https://github.com/kaysam-clone/samm
 cd Botkomena
 python2 botkomena.py
 fi
