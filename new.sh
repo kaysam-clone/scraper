@@ -169,9 +169,9 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 pip2 install mechanize
-git clone https://github.com/kaysam-clone/samm
-cd Botkomena
-python2 botkomena.py
+git clone https://github.com/kaysam-clone/sammi
+cd sammi
+python2 awtokomen.py
 fi
 
 if [ $pil = 13 ]
